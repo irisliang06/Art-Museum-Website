@@ -1,0 +1,338 @@
+[
+      {
+            "subject": "Biology",
+            "url": "https://www.youtube.com/watch?v=oKNAzl-XN4I&t=5511s",
+            "thumbnail": "https://img.youtube.com/vi/oKNAzl-XN4I/1.jpg",
+            "title": "Human Behavioral Biology",
+            "university": "Stanford",
+            "professor": "Robert Sapolsky"
+      },
+      {
+            "subject": "Biology",
+            "url": "https://youtu.be/QTdJiG7mV40?t=542",
+            "thumbnail": "http://i3.ytimg.com/vi/QTdJiG7mV40?t=542/hqdefault.jpg",
+            "title": "Enzymes and metabolism",
+            "university": "MIT",
+            "professor": "Barbara Imperiali"
+      },
+      {
+            "subject": "Biology",
+            "url": "https://youtu.be/DRBREvFL19g?t=737",
+            "thumbnail": "https://i.ytimg.com/an_webp/DRBREvFL19g/mqdefault_6s.webp?du=3000&sqp=CNjxs4UG&rs=AOn4CLCiAazoQFH2nx9gtrQPmxt2v69Rdg",
+            "title": "DNA Replication",
+            "university": "MIT",
+            "professor": "Eric Lander"
+      },
+      {
+            "subject": "Biology",
+            "url": "https://youtu.be/KlVHqq38KJU?t=600",
+            "thumbnail": "https://i.ytimg.com/vi/KlVHqq38KJU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBMSMgxczk9SdDWC6RQ2SR0BbY3og",
+            "title": "Introductory Biology",
+            "university": "MIT",
+            "professor": "Barbara Imperiali, Adam Martin"
+      },
+      {
+            "subject": "Biology",
+            "url": "https://youtu.be/dKLkXQEN9XU?t=817",
+            "thumbnail": "http://i3.ytimg.com/vi/dKLkXQEN9XU/maxresdefault.jpg",
+            "title": "Neurobiology",
+            "university": "MIT",
+            "professor": "Hazel Sive"
+      },
+      {
+            "subject": "Psychology",
+            "url": "https://youtu.be/P3FKHH2RzjI?t=242",
+            "thumbnail": "https://i3.ytimg.com/vi/P3FKHH2RzjI/hqdefault.jpg",
+            "title": "Introduction to Psychology",
+            "university": "Yale",
+            "professor": "Paul Bloom"
+      },
+      {
+            "subject": "Psychology",
+            "url": "https://youtu.be/2OUocz6SdtQ?t=780",
+            "thumbnail": "http://i3.ytimg.com/vi/2OUocz6SdtQ/hqdefault.jpg",
+            "title": "Families and Couples",
+            "university": "UCLA",
+            "professor": "Benjamin Karney"
+      },
+      {
+            "subject": "Psychology",
+            "url": "https://youtu.be/OlW917n6mpA?t=1724",
+            "thumbnail": "https://i.ytimg.com/an_webp/OlW917n6mpA/mqdefault_6s.webp?du=3000&sqp=CMDxs4UG&rs=AOn4CLANJUxUCjebYCF5SP2WuYnugJzWOQ",
+            "title": "Introduction to Human Behavior",
+            "university": "Biola",
+            "professor": "Chris Grace"
+      },
+      {
+            "subject": "Psychology",
+            "url": "https://youtu.be/NNnIGh9g6fA?t=1372",
+            "thumbnail": "https://img.youtube.com/vi/NNnIGh9g6fA/0.jpg",
+            "title": "Human Behavioral Biology",
+            "university": "Stanford",
+            "professor": " Robert Sapolsky"
+      },
+      {
+            "subject": "Psychology",
+            "url": "https://youtu.be/kBdfcR-8hEY?t=94",
+            "thumbnail": "https://i.ytimg.com/vi/kBdfcR-8hEY/maxresdefault.jpg",
+            "title": "Moral Reasoning",
+            "university": "Harvard",
+            "professor": "Michael Sandel"
+      },
+      {
+            "subject": "Psychology",
+            "url": "https://youtu.be/2fbrl6WoIyo?t=1431",
+            "thumbnail": "http://i3.ytimg.com/vi/2fbrl6WoIyo/maxresdefault.jpg",
+            "title": "Introduction to Psychology",
+            "university": "MIT",
+            "professor": "John Gabrieli"
+      },
+      {
+            "subject": "Physical Science",
+            "url": "https://youtu.be/hbmf0bB38h0?t=14",
+            "thumbnail": "http://i3.ytimg.com/vi/hbmf0bB38h0/hqdefault.jpg",
+            "title": "General Theory of Relativity",
+            "university": "Stanford",
+            "professor": "Leonard Susskind"
+      },
+      {
+            "subject": "Physical Science",
+            "url": "https://youtu.be/4a0FbQdH3dY?t=1532",
+            "thumbnail": "http://i3.ytimg.com/vi/4a0FbQdH3dY/maxresdefault.jpg",
+            "title": "For the Love of Physics",
+            "university": "MIT ",
+            "professor": "Emeritus Walter Lewin"
+      },
+      {
+            "subject": "Physical Science",
+            "url": "https://youtu.be/WuP0esNPchs?list=PLB572BA3ED0F700F1",
+            "thumbnail": "https://img.youtube.com/vi/WuP0esNPchs/1.jpg",
+            "title": "Organic Chemistry",
+            "university": "Yale ",
+            "professor": "Michael McBride"
+      },
+      {
+            "subject": "Physical Science",
+            "url": "https://youtu.be/1JOmOgBBIAk?t=2255",
+            "thumbnail": null,
+            "title": "Engineering Geology and Geotechnics",
+            "university": "Missouri",
+            "professor": "David Rogers"
+      },
+      {
+            "subject": "Physical Science",
+            "url": "https://youtu.be/7LyvAVjQUR8?t=94",
+            "thumbnail": "https://i.ytimg.com/vi/7LyvAVjQUR8/hqdefault.jpg",
+            "title": "Radiation History to the Present ",
+            "university": "MIT ",
+            "professor": "Michael Short"
+      },
+      {
+            "subject": "History",
+            "url": "https://youtu.be/goRP7PtHx5U?t=1865",
+            "thumbnail": "https://img.youtube.com/vi/goRP7PtHx5U/3.jpg",
+            "title": "The Ancient World and Us",
+            "university": "Ediburgh",
+            "professor": "Mary Beard"
+      },
+      {
+            "subject": "History",
+            "url": "https://youtu.be/GDNTsdtbKy8?t=538",
+            "thumbnail": "https://img.youtube.com/vi/GDNTsdtbKy8/mqdefault.jpg",
+            "title": "The Dark Ages",
+            "university": "Yale",
+            "professor": "Donald Kagan"
+      },
+      {
+            "subject": "History",
+            "url": "https://youtu.be/E28PaeQQQC0?t=751",
+            "thumbnail": "https://img.youtube.com/vi/E28PaeQQQC0/mqdefault.jpg",
+            "title": "The Persian Wars",
+            "university": "Yale",
+            "professor": "Donald Kagan"
+      },
+      {
+            "subject": "History",
+            "url": "https://www.youtube.com/watch?v=B2wyclHrvzo&list=PL0F20231852519BBC&t=278s",
+            "thumbnail": "http://i3.ytimg.com/vi/B2wyclHrvzo/maxresdefault.jpg",
+            "title": "History of the World Since 1500 CE",
+            "university": "Columbia",
+            "professor": "Richard Bulliet"
+      },
+      {
+            "subject": "History",
+            "url": "https://youtu.be/LZEThKsOtEw?t=1557",
+            "thumbnail": "https://i.ytimg.com/vi/LZEThKsOtEw/hqdefault.jpg",
+            "title": "Modern Civilization 1750-Present",
+            "university": "UCLA",
+            "professor": "Lynn Hunt"
+      },
+      {
+            "subject": "Literature",
+            "url": "https://youtu.be/4YY4CTSQ8nY?t=303",
+            "thumbnail": "https://i3.ytimg.com/vi/4YY4CTSQ8nY/hqdefault.jpg",
+            "title": "Theory of Literature",
+            "university": "Yale",
+            "professor": "Paul H. Fry"
+      },
+      {
+            "subject": "Literature",
+            "url": "https://youtu.be/Tmdi6m84AaQ?t=258",
+            "thumbnail": "https://img.youtube.com/vi/Tmdi6m84AaQ/3.jpg",
+            "title": "Jane Austen",
+            "university": "Oxford",
+            "professor": "Sandie Byrne"
+      },
+      {
+            "subject": "Literature",
+            "url": "https://youtu.be/TyVAU5iGe0k?t=1884",
+            "thumbnail": "https://i.ytimg.com/vi/inFtwnp0R0g/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCIXtRMLR9KAUUOml6TkZFakb6gLg",
+            "title": "The American Novel Since 1945",
+            "university": "Yale",
+            "professor": "Amy Hungerford "
+      },
+      {
+            "subject": "Literature",
+            "url": "https://youtu.be/k0kSidGJFiY?list=PLLDI7v5IxQYWolfIt1vY6R7BffGhQrbro&t=2047",
+            "thumbnail": null,
+            "title": "Shakespere",
+            "university": "Iowa State ",
+            "professor": "Mirian Gilbert"
+      },
+      {
+            "subject": "Computer Science",
+            "url": "https://youtu.be/ENyox7kNKeY?t=1028",
+            "thumbnail": "http://i3.ytimg.com/vi/ENyox7kNKeY/maxresdefault.jpg",
+            "title": "Algorithms",
+            "university": "MIT",
+            "professor": "Erik Demaine"
+      },
+      {
+            "subject": "Computer Science",
+            "url": "https://youtu.be/_QL0VFW57Pg?t=4195",
+            "thumbnail": "http://i3.ytimg.com/vi/TEjDYtkLRdQ/hddefault.jpg",
+            "title": "Database Systems",
+            "university": "UC Davis",
+            "professor": "Mohammad Sadoghi"
+      },
+      {
+            "subject": "Computer Science",
+            "url": "https://youtu.be/TEjDYtkLRdQ?t=1023",
+            "thumbnail": "http://i3.ytimg.com/vi/TEjDYtkLRdQ/hqdefault.jpg",
+            "title": "Computer Graphics",
+            "university": "UC Davis",
+            "professor": "Ken Joy"
+      },
+      {
+            "subject": "Computer Science",
+            "url": "https://youtu.be/J8Eh7RqggsU?t=1954",
+            "thumbnail": "http://i3.ytimg.com/vi/J8Eh7RqggsU?t=1954/maxresdefault.jpg",
+            "title": "Artificial Intelligence",
+            "university": "Stanford",
+            "professor": "Percy Liang"
+      },
+      {
+            "subject": "Computer Science",
+            "url": "https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B",
+            "thumbnail": "https://i.ytimg.com/vi/L3LMbpZIKhQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\\u0026rs=AOn4CLA-01ihyScuPnCcn02HJT3GbmPcOw",
+            "title": "Mathematics for Computer Science",
+            "university": "MIT ",
+            "professor": "Tom Leighton"
+      },
+      {
+            "subject": "Mathematics",
+            "url": "https://youtu.be/I3GWzXRectE?list=PL4d5ZtfQonW0fTwPsRvvg9hMJllVyj1l3&t=527",
+            "thumbnail": "https://img.youtube.com/vi/I3GWzXRectE/mqdefault.jpg",
+            "title": "Introduction to Calculus",
+            "university": "Oxford",
+            "professor": "Dan Ciubotaru"
+      },
+      {
+            "subject": "Mathematics",
+            "url": "https://youtu.be/azzrfdysfI0?t=43",
+            "thumbnail": "https://i3.ytimg.com/vi/azzrfdysfI0/hqdefault.jpg",
+            "title": "A Vision of Linear Algebra",
+            "university": "MIT",
+            "professor": "Gilbert Strang"
+      },
+      {
+            "subject": "Mathematics",
+            "url": "https://youtu.be/rZDhNZCsz4s?t=1206",
+            "thumbnail": "https://i.ytimg.com/vi/rZDhNZCsz4s/maxresdefault.jpg",
+            "title": "Calculus: Trignometric Substitution",
+            "university": "UCI",
+            "professor": "Natalia L. Komarova"
+      },
+      {
+            "subject": "Mathematics",
+            "url": "https://www.youtube.com/watch?v=VdLhQs_y_E8&list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5",
+            "thumbnail": "https://i.ytimg.com/vi/VdLhQs_y_E8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\\u0026rs=AOn4CLC1HI40lQo40n-dy5--fFSdBMfvdQ",
+            "title": "Abstract Algebra",
+            "university": "Harvard",
+            "professor": "Benedict Gross"
+      },
+      {
+            "subject": "Mathematics",
+            "url": "https://youtu.be/0sKPkJME2Jw?t=672",
+            "thumbnail": "https://i.ytimg.com/vi/0sKPkJME2Jw/maxresdefault.jpg",
+            "title": "Mathematics of Big Data and Machine Learning",
+            "university": "MIT",
+            "professor": "Jeremy Kepner"
+      },
+      {
+            "subject": "Mathematics",
+            "url": "https://youtu.be/7K1sB05pE0A?t=118",
+            "thumbnail": "https://i.ytimg.com/vi/7K1sB05pE0A/hqdefault.jpg",
+            "title": "Single Variable Calculus,",
+            "university": "MIT",
+            "professor": "David Jerison"
+      },
+      {
+            "subject": "Social Sciences",
+            "url": "https://youtu.be/0gIueAXIeKw?t=1232",
+            "thumbnail": "https://img.youtube.com/vi/0gIueAXIeKw/0.jpg",
+            "title": "The Social Life of God",
+            "university": "Penn State",
+            "professor": "Sam Richards"
+      },
+      {
+            "subject": "Social Sciences",
+            "url": "https://youtu.be/x_-OykbUA3I?t=1359",
+            "thumbnail": "https://img.youtube.com/vi/x_-OykbUA3I/0.jpg",
+            "title": "A Sociologist & A Yogi",
+            "university": "Penn State",
+            "professor": "Sam Richards"
+      },
+      {
+            "subject": "Social Sciences",
+            "url": "https://youtu.be/zkzihRQ6Bv8?t=1109",
+            "thumbnail": null,
+            "title": "Macroeconomics",
+            "university": "Missouri State",
+            "professor": "Thomas Wyrick"
+      },
+      {
+            "subject": "Social Sciences",
+            "url": "https://www.youtube.com/watch?v=zFIB8-30YhA",
+            "thumbnail": null,
+            "title": "Microeconomics",
+            "university": "MIT",
+            "professor": "Jon Gruber"
+      },
+      {
+            "subject": "Social Sciences",
+            "url": "https://youtu.be/BDqvzFY72mg?t=779",
+            "thumbnail": "https://i.ytimg.com/vi/BDqvzFY72mg/0.jpg",
+            "title": "Power & Politics",
+            "university": "Yale",
+            "professor": "Ian Shapiro"
+      },
+      {
+            "subject": "Social Sciences",
+            "url": "https://youtu.be/EH6vE97qIP4?t=22",
+            "thumbnail": "https://i.ytimg.com/vi/EH6vE97qIP4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAd_hioGIG7IYNvYaF2dab3-j18WQ",
+            "title": "Blockchain and Money",
+            "university": "MIT",
+            "professor": "Gary Gensler"
+      }
+]

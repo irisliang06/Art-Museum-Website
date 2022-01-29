@@ -1,0 +1,38 @@
+.outlineNeon {
+  width: 85%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  padding: 10px 10px;
+  box-shadow: 0px 0px 2px, 0 0 2px inset,
+  0px 0px 2px, 0 0 1px inset,
+  0px 0px 2px, 0 0 1px inset,
+  0px 0px 2px, 0 0 1px inset,
+  0px 0px 2px, 0 0 1px inset,
+  0px 0px 2px, 0 0 1px inset,
+  0px 0px 2px, 0 0 1px inset,
+  0px 0px 2px, 0 0 1px inset;
+  border-radius: 10px;
+  text-overflow: ellipsis;
+}
+
+.smallerSize {
+  font-size: 16px;
+}
+
+@media screen and (max-width: 330px) {
+  .smallerSize {
+    font-size: 14px;
+  }
+}
+
+.biggerSize {
+  font-size: 26px;
+}
+
+.outlineContainer {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,147 @@
+@font-face {
+  font-family: "NightLight";
+  src: url("Monoton-Regular.ttf");
+}
+
+main {
+  text-align: center;
+  vertical-align: center;
+}
+
+.subjectLink {
+  text-align: center;
+  text-decoration: none;
+  margin: 20px;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  min-height: 100%;
+  background-image: url("wall-texture.jpg");
+  background-size: auto 750px;
+  background-repeat: repeat;
+}
+
+
+.neonSign {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+@media (min-aspect-ratio: 48/100) {
+  .neonSign {
+    transform: translate(0, -100px);
+  }
+}
+
+@media (min-aspect-ratio: 50/100) {
+  .neonSign {
+    transform: translate(0, -140px);
+  }
+}
+
+.startText {
+  font-size: 26px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 70px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+}
+
+.myTestClass {
+  font-family: "NightLight";
+  font-size: 36px;
+}
+
+
+
+.UniversityChooser {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  width: 100%;
+  min-height: 100%;
+  background-image: url("wall-texture.jpg");
+  background-size: auto 750px;
+  background-repeat: repeat;
+}
+
+.backCont {
+  width: 90%;
+  padding-left: 10%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.backCont:hover {
+  cursor: pointer;
+}
+
+.videoLink {
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  margin: 20px;
+}
+
+.backCont-arr {
+  width: 30px;
+}
+
+.vp-div-3 {
+  margin: 5px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.backCont-back {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.vp-div {
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 10;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(0, 0, 0, 0.75);
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  height: calc(100vw / 16 * 9);
+}
+
+.vp-div-2 {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.vp-in {
+  width: 80%;
+  max-width: 600px;
+  height: auto;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
